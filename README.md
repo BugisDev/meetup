@@ -2,5 +2,5 @@
 
 ## Techtalk 1
 
-- (techtalk1/Deploy\ ReactJS\ into\ Production.pdf)[Deploy ReactJs into Production] by Ady Rahmat MA
+- [Deploy ReactJs into Production](https://github.com/BugisDev/meetup/blob/master/techtalk1/Deploy%20ReactJS%20into%20Production.pdf) by Ady Rahmat MA
 
